@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">English Learning</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="next">Next</string>
+    <string name="nameApp">kidsLingo</string>
+    <string name="splash">Splash</string>
+</resources>
